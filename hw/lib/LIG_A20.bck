@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2SA1943
+D Bipolar Transistors - BJT PNP 230V 15A 150W 
+K PNP, BJT, 230V, 15A, 150W
+F https://www.onsemi.com/pub/Collateral/FJL4215-D.pdf
+$ENDCMP
+#
+$CMP BU407
+D Bipolar Transistors - BJT NPN Trans 330Vcbo 330Vces 150Vceo 60W
+F http://www.bourns.com/data/global/pdfs/bu406.pdf
+$ENDCMP
+#
+#End Doc Library
